@@ -4,12 +4,12 @@ Terrorism is one of the biggest global challenges faced by humanity, killing and
 # Objective
 By the end we will conclude the study with following Insights:-
 
-Which countries were most attacked?
-Which regions were affected the most?
-Is there an increase or decrease in recent years?
-Is there an increase or decrease in the number of successful terror operations?
-Who are the most targeted globally and regionally?
-What are the most common types of attacks globally and regionally?
-What are the most used weapon types globally and regionally?
-Which terrorist organization is responsible for the majority number of attacks? By analyzing these questions, the end goal is to come up with short-term and long-term solutions to stop and tackle terrorism.
+* Which countries were most attacked?
+* Which regions were affected the most?
+* Is there an increase or decrease in recent years?
+* Is there an increase or decrease in the number of successful terror operations?
+* Who are the most targeted globally and regionally?
+* What are the most common types of attacks globally and regionally?
+* What are the most used weapon types globally and regionally?
+* Which terrorist organization is responsible for the majority number of attacks? By analyzing these questions, the end goal is to come up with short-term and long-term solutions to stop and tackle terrorism.
 # Workflow
