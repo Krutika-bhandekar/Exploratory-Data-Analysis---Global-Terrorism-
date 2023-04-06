@@ -13,3 +13,8 @@ By the end we will conclude the study with following Insights:-
 * What are the most used weapon types globally and regionally?
 * Which terrorist organization is responsible for the majority number of attacks? By analyzing these questions, the end goal is to come up with short-term and long-term solutions to stop and tackle terrorism.
 # Workflow
+1. Understanding problem statement and Raw data
+2. Data wrangling: cleaning, manupulation
+3. Exploratory Data Analysis
+4. Data Visualization
+5. Analysing and sharing the conclusions
